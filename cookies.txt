@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dupoc.net	TRUE	/	FALSE	1999999999	prli_click_1	go
+dupoc.net	TRUE	/	FALSE	1999999999	prli_visitor	67059ec76303b
+dupoc.net	TRUE	/	FALSE	1999999999	_lscache_vary	9a86dfcfec26e2e9226cc6ccb0baeb63
+

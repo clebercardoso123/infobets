@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Oct 2024 18:06:23 at https://dupoc.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://dupoc.net/ -O1 "C:\Meus Sites\Dupoc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:06:58	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://dupoc.net/)
+18:08:33	Warning: 	Moved Permanently for https://dupoc.net/?p=3
+18:08:33	Warning: 	File has moved from https://dupoc.net/?p=3 to https://dupoc.net/politica-de-privacidade/
+18:08:33	Warning: 	Moved Permanently for https://dupoc.net/?p=287
+18:08:33	Warning: 	File has moved from https://dupoc.net/?p=287 to https://dupoc.net/termos-de-uso/
+18:08:33	Warning: 	Moved Permanently for https://dupoc.net/?p=308
+18:08:33	Warning: 	File has moved from https://dupoc.net/?p=308 to https://dupoc.net/faq/
+18:08:33	Warning: 	Moved Permanently for https://dupoc.net/?p=353
+18:08:33	Warning: 	File has moved from https://dupoc.net/?p=353 to https://dupoc.net/login/
+18:08:33	Warning: 	Moved Permanently for https://dupoc.net/?p=314
+18:08:33	Warning: 	File has moved from https://dupoc.net/?p=314 to https://dupoc.net/entre-em-contato/
+18:08:33	Warning: 	Moved Permanently for https://dupoc.net/?p=511
+18:08:33	Warning: 	File has moved from https://dupoc.net/?p=511 to https://dupoc.net/jogo-responsavel/
+18:08:33	Warning: 	Moved Permanently for https://dupoc.net/?p=428
+18:08:33	Warning: 	File has moved from https://dupoc.net/?p=428 to https://dupoc.net/afiliados/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 10 seconds : 99 links scanned, 90 files written (2961684 bytes overall) [1025704 bytes received at 7890 bytes/sec], 2563470 bytes transferred using HTTP compression in 81 files, ratio 18%, 9.2 requests per connection
+(1 errors, 14 warnings, 0 messages)
